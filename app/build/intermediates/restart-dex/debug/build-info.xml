@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="325211552375147"
+    token="-7622463991952407416" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="324979763718596"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/thanhnguyen/Downloads/assignment-birthday-probability-skeleton/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="325142969513648"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/thanhnguyen/Downloads/assignment-birthday-probability-skeleton/app/build/intermediates/builds/debug/325142969513648/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="325183561660561"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/thanhnguyen/Downloads/assignment-birthday-probability-skeleton/app/build/intermediates/builds/debug/325183561660561/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="325211552375147" />
+
+</instant-run>
